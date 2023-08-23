@@ -7,5 +7,5 @@ var num3 = 3;
 var num4 = 2;
 var num5 = 4;
 var num6 = 7;
-var result = (((10 + 5) * 3 - 2) / (4 % 3) - 7);
+var result = (((num1 + num2) * num3 - num4) / (num5 % 3) - num6);
 console.log(result);
